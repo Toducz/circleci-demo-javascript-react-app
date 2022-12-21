@@ -12,5 +12,5 @@ jobs:
     steps:
       - checkout
       - run:
-          command: node --version
+          command: node --version1
           name: Test command

@@ -11,7 +11,7 @@ class App extends Component {
   render() {
     return (
       <Layout>
-        <Header title="Baby Hippo Endre 123"/>
+        <Header title="Baby Hippo Endre 1234"/>
         <Container>
           <Card cards={ this.state.cards } />
         </Container>

@@ -10,7 +10,7 @@ import Card from './Components/Card';
 class App extends Component {
   render() {
     return (
-      <Layout>
+      <Layout>asd
         <Header title="Baby Hippo Endre 12dasdasdasdf3asd478"/>
         <Container>
           <Card cards={ this.state.cards } />

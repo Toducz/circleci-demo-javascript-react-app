@@ -20,7 +20,7 @@ class App extends Component {
   }
 
   state = {
-      cards: []
+      cards: []sfd
   };
 
   componentDidMount() {
